@@ -29,26 +29,15 @@ I am a passionate developer with a strong focus on backend development. My exper
 
 ---
 
-### 🛠️ Tools I Use:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ProjectIDX-02569B?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Apache%20NetBeans-1B6AC6?style=flat&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flowgorithm-339933?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
-</p>
-
----
-
 ### 📊 GitHub Stats:
 
-![Sulthan Adam Rahmadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadamdi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadamdi&layout=compact&theme=radical)](https://github.com/Sadamdi)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadamdi&theme=radical)](https://git.io/streak-stats)
+<div style="display: flex; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadamdi&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadamdi&layout=compact&theme=radical&hide_border=true" />
+</div>
+<div style="display: flex; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Sadamdi&theme=radical&hide_border=true" />
+</div>
 
 ---
 
