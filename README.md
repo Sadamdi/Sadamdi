@@ -1,30 +1,27 @@
-## Hi there 👋, I'm Sadam Di
+## Hi there 👋, I'm Sulthan Adam Rahmadi
 
-I am a passionate developer with a strong interest in building scalable and efficient software solutions. My expertise spans across multiple technologies including backend, frontend, and mobile development.
+I am a passionate developer with a strong focus on backend development. My expertise lies in building robust and efficient software solutions using a variety of modern technologies. I'm currently working on a mobile app for an IT incubation program.
 
 [![GitHub followers](https://img.shields.io/github/followers/Sadamdi?label=Follow&style=social)](https://github.com/Sadamdi?tab=followers)
-[![Linkedin Badge](https://img.shields.io/badge/-Sadamdi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadamdi/)](https://www.linkedin.com/in/sadamdi/)
-[![Gmail Badge](https://img.shields.io/badge/-Sadamdi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Sadamdi@gmail.com)](mailto:Sadamdi@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sultanadamr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sultanadamr@gmail.com)](mailto:sultanadamr@gmail.com)
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on [Some Cool Project](https://github.com/Sadamdi/some-cool-project)
-- 🌱 I’m currently learning **Next.js, Docker, and Kubernetes**
-- 💬 Ask me about **Backend Development, Node.js, Go, JavaScript**
-- 📫 How to reach me: [Email](mailto:Sadamdi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sadamdi/)
+- 🔭 I’m currently working on [APK Resep AI](https://github.com/Sadamdi/APK-Resep-AI), a mobile application utilizing AI for recipe recommendations.
+- 🌱 I’m currently learning **Dart, Python, and Java**
+- 💬 Ask me about **Backend Development, Node.js, Python, Java, JavaScript, Dart**
+- 📫 How to reach me: [Email](mailto:sultanadamr@gmail.com)
 - ⚡ Fun fact: I love to explore new technologies and improve my coding skills.
 
 ---
 
 ### 🚀 My Skills:
 <p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
 </p>
 
 ---
@@ -36,15 +33,11 @@ I am a passionate developer with a strong interest in building scalable and effi
 ---
 
 ### 💼 My Open Source Projects:
-- [Project 1](https://github.com/Sadamdi/project-1) - Brief description of what this project does
-- [Project 2](https://github.com/Sadamdi/project-2) - Another awesome project
-- [Project 3](https://github.com/Sadamdi/project-3) - A different cool project
+- [APK Resep Offline](https://github.com/Sadamdi/APK-Resep-Offline) - Offline mobile recipe application.
+- [APK Resep AI](https://github.com/Sadamdi/APK-Resep-AI) - AI-powered recipe application.
+- [APK Resep Online](https://github.com/Sadamdi/APK-Resep-Online) - Online recipe application with real-time data.
 
 ---
 
-### 🌍 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/sadamdi/)
-- [Portfolio](https://sadamdi.github.io/) (Coming Soon)
-
-Feel free to explore my repositories and don't hesitate to get in touch if you're interested in collaborating on any project!
-
+### 🌍 My Blog:
+Check out my personal blog at [Sadamverse](https://sadamverse.wuaze.com/?i=1) for insights on development, technology, and more!
