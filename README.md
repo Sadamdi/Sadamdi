@@ -31,12 +31,12 @@ I am a passionate developer with a strong focus on backend development. My exper
 
 ### 📊 GitHub Stats:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadamdi&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadamdi&layout=compact&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Sadamdi&theme=radical&hide_border=true" />
-  <!-- Stat tambahan Contributions Graph -->
   <img height="180em" src="https://github-contribution-stats.vercel.app/api/?username=Sadamdi&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sadamdi&theme=radical" />
 </div>
 
 ---
@@ -50,3 +50,8 @@ I am a passionate developer with a strong focus on backend development. My exper
 
 ### 🌍 My Blog:
 Check out my personal blog at [Sadamverse](https://sadamverse.wuaze.com/?i=1) for insights on development, technology, and more!
+
+---
+
+### ⏳ WakaTime Stats:
+[![wakatime](https://wakatime.com/badge/user/5aa2d301-9eb0-4f89-b27f-129c87caabbe.svg)](https://wakatime.com/@Sadamdi)
