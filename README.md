@@ -54,4 +54,4 @@ Check out my personal blog at [Sadamverse](https://sadamverse.wuaze.com/?i=1) fo
 ---
 
 ### ⏳ WakaTime Stats:
-[![wakatime](https://wakatime.com/badge/user/5aa2d301-9eb0-4f89-b27f-129c87caabbe.svg)](https://wakatime.com/@Sadamdi)
+[![wakatime](https://wakatime.com/badge/user/c2a3a397-c767-46a6-a93d-342beafafd89.svg)](https://wakatime.com/@c2a3a397-c767-46a6-a93d-342beafafd89)
