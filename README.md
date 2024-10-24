@@ -45,19 +45,10 @@ I am a passionate developer with a strong focus on backend development. My exper
 ---
 
 ### 📊 GitHub Stats:
-![Sadamdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadamdi&show_icons=true&theme=radical)
+
+![Sulthan Adam Rahmadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadamdi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadamdi&layout=compact&theme=radical)](https://github.com/Sadamdi)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadamdi&theme=radical)](https://git.io/streak-stats)
-
----
-
-### 🏙️ My GitHub Skyline:
-![GitHub Skyline](https://skyline.github.com/Sadamdi/2023.svg)
-
----
-
-### 🎨 My Activity Graph:
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sadamdi&theme=react-dark)](https://github.com/Sadamdi)
 
 ---
 
@@ -65,11 +56,6 @@ I am a passionate developer with a strong focus on backend development. My exper
 - [APK Resep Offline](https://github.com/Sadamdi/APK-Resep-Offline) - Offline mobile recipe application.
 - [APK Resep AI](https://github.com/Sadamdi/APK-Resep-AI) - AI-powered recipe application.
 - [APK Resep Online](https://github.com/Sadamdi/APK-Resep-Online) - Online recipe application with real-time data.
-
----
-
-### 💡 Quote of the Day:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
 
 ---
 
