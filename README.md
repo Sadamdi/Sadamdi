@@ -44,7 +44,7 @@ I am a passionate developer with a strong focus on backend development. My exper
 ### 💼 My Open Source Projects:
 - [APK Resep Offline](https://github.com/Sadamdi/APK-Resep-Offline) - Offline mobile recipe application.
 - [APK Resep AI](https://github.com/Sadamdi/APK-Resep-AI) - AI-powered recipe application.
-- [APK Resep Online](https://github.com/Sadamdi/APK-Resep-Online) - Online recipe application with real-time data.
+- [Personal Blog](https://github.com/Sadamdi/Sadamverse-Blog) - Sadamverse Blog is a personal blog built using HTML and CSS
 
 ---
 
