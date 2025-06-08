@@ -9,7 +9,7 @@ I am a passionate developer with a strong focus on backend development. My exper
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on [APK Resep AI](https://github.com/Sadamdi/APK-Resep-AI), a mobile application utilizing AI for recipe recommendations.
+- 🔭 I’m currently working on [Web Himatif Encoder](https://github.com/Sadamdi/hmps), a website for HIMATIF ENCODER 2025 period.
 - 🌱 I’m currently learning **Dart, Python, and Java**
 - 💬 Ask me about **Backend Development, Node.js, Python, Java, JavaScript, Dart**
 - 📫 How to reach me: [Email](mailto:sultanadamr@gmail.com)
