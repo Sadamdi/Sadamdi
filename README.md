@@ -10,8 +10,8 @@ I am a passionate developer with a strong focus on backend development. My exper
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on [Web Himatif Encoder](https://github.com/Sadamdi/hmps), a website for HIMATIF ENCODER 2025 period.
-- 🌱 I’m currently learning **Dart, Python, and Java**
-- 💬 Ask me about **Backend Development, Node.js, Python, Java, JavaScript, Dart**
+- 🌱 I’m currently learning Typescript, Python, and Java
+- 💬 Ask me about Backend Development, Node.js, Python, Java, JavaScript, Dart
 - 📫 How to reach me: [Email](mailto:sultanadamr@gmail.com)
 - ⚡ Fun fact: I love to explore new technologies and improve my coding skills.
 
@@ -25,6 +25,7 @@ I am a passionate developer with a strong focus on backend development. My exper
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
 </p>
 
 ---
