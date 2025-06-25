@@ -42,14 +42,14 @@ I am a passionate developer with a strong focus on backend development. My exper
 ---
 
 ### 💼 My Open Source Projects:
-- [APK Resep Offline](https://github.com/Sadamdi/APK-Resep-Offline) - Offline mobile recipe application.
+- [Deepseek Chat](https://github.com/Sadamdi/deepseek-chat) - Bot Discord AI Assistant dengan DeepSeek AI
 - [APK Resep AI](https://github.com/Sadamdi/APK-Resep-AI) - AI-powered recipe application.
 - [Personal Blog](https://github.com/Sadamdi/Sadamverse-Blog) - Sadamverse Blog is a personal blog built using HTML and CSS
 
 ---
 
-### 🌍 My Blog:
-Check out my personal blog at [Sadamverse](https://sadamverse.wuaze.com/?i=1) for insights on development, technology, and more!
+### 🌍 My Personal Web:
+Check out my personal web at [Sadamverse](https://sadamverse.wuaze.com/) for insights on development, technology, and more!
 
 ---
 
