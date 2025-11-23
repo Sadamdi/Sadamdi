@@ -3,9 +3,7 @@
 I am a passionate developer with a strong focus on backend development. My expertise lies in building robust and efficient software solutions using a variety of modern technologies. I'm currently working on creating a website for HIMATIF ENCODER for the 2025 period.
 
 [![GitHub followers](https://img.shields.io/github/followers/Sadamdi?label=Follow&style=social)](https://github.com/Sadamdi?tab=followers)
-
 [![Gmail Badge](https://img.shields.io/badge/-sultanadamr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sultanadamr@gmail.com)](mailto:sultanadamr@gmail.com)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sadamdi&color=blue)
 
 ---
