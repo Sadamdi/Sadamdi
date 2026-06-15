@@ -1,8 +1,6 @@
 <div align="center">
 
-# Halo, saya Sulthan Adam Rahmadi 👋
-
-### Backend Developer • Mahasiswa Informatika UIN Malang • AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0077B5&height=220&section=header&text=Sulthan%20Adam%20Rahmadi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Mahasiswa%20Informatika%20UIN%20Malang&descAlignY=55&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+%26+Microservice+Developer;Go+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+Flutter;Membangun+KORA+-+Platform+Koperasi+Digital;Aktif+di+HIMATIF+Encoder+%26+GDGOC+UIN+Malang" alt="Typing SVG" />
 
@@ -97,6 +95,26 @@
 
 </div>
 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sadamdi&theme=radical&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sadamdi/Sadamdi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sadamdi/Sadamdi/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sadamdi/Sadamdi/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
 ---
 
 ### 💼 Proyek Unggulan
@@ -148,5 +166,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sulthan--adam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulthan-adam-a527b2306/)
 [![Gmail](https://img.shields.io/badge/Email-sultanadamr%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sultanadamr@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-sadamverse.kesug.com-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sadamverse.kesug.com/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00ADD8&height=120&section=footer" width="100%" />
 
 </div>
