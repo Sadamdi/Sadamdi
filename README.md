@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Sadamdi/Sadamdi/main/assets/header.svg" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=00ADD8&center=true&vCenter=true&width=650&lines=Lagi+bangun+KORA+%26+Kelilink+dari+sisi+backend;Ngoprek+Node.js%2C+Go%2C+microservice+sejak+SMA;Owner+%26+PM+di+HIMATIF+Encoder+UIN+Malang;Kadang+backend%2C+kadang+mobile%2C+kadang+nonton+anime+%26+main+game" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=00ADD8&center=true&vCenter=true&width=740&lines=Lagi+bangun+KORA+%26+Kelilink+dari+sisi+backend;Ngoprek+Node.js%2C+Go%2C+microservice+sejak+SMA;Owner+%26+PM+di+HIMATIF+Encoder+UIN+Malang;Kadang+backend%2C+kadang+mobile%2C+sisanya+anime+%26+game" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulthan-adam-a527b2306/)
 [![Gmail](https://img.shields.io/badge/Email-sultanadamr%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:sultanadamr@gmail.com)
