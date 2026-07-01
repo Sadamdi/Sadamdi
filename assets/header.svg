@@ -66,8 +66,8 @@
 
   <g font-family="'Fira Code', monospace" font-size="20">
     <text x="60" y="158" fill="#00ADD8">&gt;</text>
-    <text x="86" y="158" fill="#c9d1d9">Backend &amp; Microservice Engineer</text>
-    <rect class="cursor" x="454" y="143" width="10" height="20" fill="#00ADD8"/>
+    <text x="86" y="158" fill="#c9d1d9">Backend Engineer</text>
+    <rect class="cursor" x="282" y="143" width="10" height="20" fill="#00ADD8"/>
   </g>
 
   <text x="60" y="192" font-family="'Segoe UI', sans-serif" font-size="15" fill="#8b949e">
