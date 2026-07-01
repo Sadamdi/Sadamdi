@@ -1,0 +1,85 @@
+<svg width="100%" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#111a2b"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ADD8"/>
+      <stop offset="100%" stop-color="#7ee1f5"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="220" fill="url(#bg)"/>
+
+  <!-- moving grid dots, subtle -->
+  <g opacity="0.18">
+    <circle cx="60" cy="40" r="1.6" fill="#00ADD8"/>
+    <circle cx="140" cy="90" r="1.6" fill="#00ADD8"/>
+    <circle cx="920" cy="50" r="1.6" fill="#00ADD8"/>
+    <circle cx="860" cy="170" r="1.6" fill="#00ADD8"/>
+    <circle cx="40" cy="180" r="1.6" fill="#00ADD8"/>
+  </g>
+
+  <!-- animated accent line under name -->
+  <rect x="60" y="128" width="0" height="4" rx="2" fill="url(#accent)" filter="url(#glow)">
+    <animate attributeName="width" values="0;340;340;0" keyTimes="0;0.35;0.85;1" dur="4s" begin="0.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- name -->
+  <text x="60" y="95" font-family="'Segoe UI', 'Fira Code', monospace" font-size="42" font-weight="700" fill="#f0f6fc">
+    Sulthan Adam Rahmadi
+  </text>
+
+  <!-- terminal-style caret before role text -->
+  <text x="60" y="150" font-family="'Fira Code', monospace" font-size="20" fill="#00ADD8">
+    &gt;
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- rotating role text -->
+  <text x="88" y="150" font-family="'Fira Code', monospace" font-size="20" fill="#c9d1d9">
+    <tspan>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.24;0.28" dur="8s" repeatCount="indefinite"/>
+      Backend &amp; Microservice Engineer
+    </tspan>
+  </text>
+  <text x="88" y="150" font-family="'Fira Code', monospace" font-size="20" fill="#c9d1d9" opacity="0">
+    Go · Fiber · TypeScript · Flutter
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.26;0.31;0.49;0.53" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="88" y="150" font-family="'Fira Code', monospace" font-size="20" fill="#c9d1d9" opacity="0">
+    Lagi bangun KORA — platform koperasi digital
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.51;0.56;0.74;0.78" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="88" y="150" font-family="'Fira Code', monospace" font-size="20" fill="#c9d1d9" opacity="0">
+    Owner &amp; PM @ HIMATIF Encoder
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.76;0.81;0.99;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- subtitle -->
+  <text x="60" y="185" font-family="'Segoe UI', sans-serif" font-size="15" fill="#8b949e">
+    Teknik Informatika, UIN Maulana Malik Ibrahim Malang
+  </text>
+
+  <!-- right-side gopher-inspired mark: simple animated hex/orbit -->
+  <g transform="translate(880,110)">
+    <circle r="46" fill="none" stroke="#00ADD8" stroke-width="1.5" opacity="0.35"/>
+    <circle r="34" fill="none" stroke="#00ADD8" stroke-width="1.5" opacity="0.5"/>
+    <circle cx="46" cy="0" r="5" fill="#00ADD8">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="34" r="3.5" fill="#7ee1f5">
+      <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-14" y="7" font-family="'Fira Code', monospace" font-size="18" font-weight="700" fill="#f0f6fc">Go</text>
+  </g>
+</svg>
