@@ -7,27 +7,30 @@
   </defs>
 
   <style>
+    /* opacity ramp within each slide's own 20%-of-cycle window: fade in (0-4%),
+       hold (4-16%), fade out (16-20%) — symmetric so transitions never "pop" */
     @keyframes catFade {
-      0%, 16%  { opacity: 1; }
-      20%      { opacity: 0; }
-      100%     { opacity: 0; }
+      0%          { opacity: 0; }
+      4%, 16%     { opacity: 1; }
+      20%, 100%   { opacity: 0; }
     }
-    @keyframes dotFade {
-      0%, 16%  { opacity: 1; }
-      20%      { opacity: 0.3; }
-      100%     { opacity: 0.3; }
+    @keyframes tabActive {
+      0%          { opacity: 0; }
+      4%, 16%     { opacity: 1; }
+      20%, 100%   { opacity: 0; }
     }
     @keyframes iconFloat {
       0%, 100% { transform: translateY(0); }
       50%      { transform: translateY(-4px); }
     }
-    .slide { animation: catFade 20s linear infinite; }
+    .slide { animation: catFade 20s ease-in-out infinite; }
+    .tab-active { animation: tabActive 20s ease-in-out infinite; }
+    /* delay_i chosen so slide i's dedicated window is real time [4i, 4i+4) */
     .s0 { animation-delay: 0s; }
-    .s1 { animation-delay: -4s; }
-    .s2 { animation-delay: -8s; }
-    .s3 { animation-delay: -12s; }
-    .s4 { animation-delay: -16s; }
-    .dot { animation: dotFade 20s linear infinite; }
+    .s1 { animation-delay: -16s; }
+    .s2 { animation-delay: -12s; }
+    .s3 { animation-delay: -8s; }
+    .s4 { animation-delay: -4s; }
     .icon-float { animation: iconFloat 3s ease-in-out infinite; }
     .fi0 { animation-delay: 0s; } .fi1 { animation-delay: .2s; } .fi2 { animation-delay: .4s; }
     .fi3 { animation-delay: .6s; } .fi4 { animation-delay: .8s; } .fi5 { animation-delay: 1s; }
@@ -204,11 +207,32 @@
   </g>
 
   <!-- ===================== Bottom tab indicators ===================== -->
-  <g transform="translate(0,0)">
-    <circle class="dot s0" cx="380" cy="205" r="5" fill="#00ADD8"/>
-    <circle class="dot s1" cx="400" cy="205" r="5" fill="#339933"/>
-    <circle class="dot s2" cx="420" cy="205" r="5" fill="#4169E1"/>
-    <circle class="dot s3" cx="440" cy="205" r="5" fill="#61DAFB"/>
-    <circle class="dot s4" cx="460" cy="205" r="5" fill="#2496ED"/>
+  <!-- Each tab = dim base pill (always visible) + bright overlay pill (fades in only during its slide's turn) -->
+  <g font-family="Segoe UI, sans-serif" font-size="11" text-anchor="middle">
+    <g transform="translate(14,186)">
+      <rect width="152" height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1"/>
+      <rect class="tab-active s0" width="152" height="26" rx="13" fill="#00ADD8"/>
+      <text x="76" y="17" fill="#e6edf3">Languages</text>
+    </g>
+    <g transform="translate(178,186)">
+      <rect width="152" height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1"/>
+      <rect class="tab-active s1" width="152" height="26" rx="13" fill="#339933"/>
+      <text x="76" y="17" fill="#e6edf3">Backend</text>
+    </g>
+    <g transform="translate(342,186)">
+      <rect width="152" height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1"/>
+      <rect class="tab-active s2" width="152" height="26" rx="13" fill="#4169E1"/>
+      <text x="76" y="17" fill="#e6edf3">Databases</text>
+    </g>
+    <g transform="translate(506,186)">
+      <rect width="152" height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1"/>
+      <rect class="tab-active s3" width="152" height="26" rx="13" fill="#02569B"/>
+      <text x="76" y="17" fill="#e6edf3">Frontend</text>
+    </g>
+    <g transform="translate(670,186)">
+      <rect width="152" height="26" rx="13" fill="none" stroke="#30363d" stroke-width="1"/>
+      <rect class="tab-active s4" width="152" height="26" rx="13" fill="#2496ED"/>
+      <text x="76" y="17" fill="#e6edf3">DevOps &amp; AI</text>
+    </g>
   </g>
 </svg>
