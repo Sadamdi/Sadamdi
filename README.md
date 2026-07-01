@@ -101,19 +101,17 @@ Contact    : sultanadamr@gmail.com
 
 | Proyek | Deskripsi | Peran | Stack |
 |---|---|---|---|
-| 🏦 **KORA — Koperasi Digital** 🔒 | Backend microservice buat platform koperasi digital: backoffice & manajemen anggota, e-commerce dengan pembayaran digital, sampai layanan agregator. Repo privat, jadi ini garis besarnya aja. | Backend Developer | Go, Fiber, PostgreSQL, Redis, Docker |
+| 🏦 **KORA — Koperasi Digital** 🔒 | Backend microservice buat platform koperasi digital: backoffice & manajemen anggota, e-commerce dengan pembayaran digital, sampai layanan agregator. | Backend Developer | Go, Fiber, PostgreSQL, Redis, Docker |
 | 🎓 [HMPS – HIMATIF Encoder](https://github.com/Sadamdi/hmps) | Platform informasi resmi HIMATIF Encoder, UIN Malang — dari nol sampai production. | Owner, PM & Full-stack Dev | React, TypeScript, Express, MongoDB |
 | 🛒 [GDGOC E-Commerce](https://github.com/Sadamdi/GDGOC-Ecommerce) | E-commerce buat Study Jam 2026, GDGOC UIN Malang. | PM & Backend Dev | Go, React, MongoDB Atlas |
 | 🍲 [SIPGN-BGN](https://github.com/Sadamdi/BGN) | Sistem monitoring program Makan Bergizi Gratis skala nasional. | PM & Developer | React, AntD, Express, Prisma, PostgreSQL, Redis |
 | 🏪 [SekitarKampus](https://github.com/Sadamdi/SekitarKampus) | Direktori UMKM sekitar kampus 🏆 *1st Best Team, Maliki Tech Fest 2025* | Owner & Lead Dev | React, Leaflet, Fuse.js, Zustand |
 | 💼 [TalentHub](https://github.com/Sadamdi/TalentHub) | Platform talent management buat pencari kerja & perusahaan. | Backend & Mobile Dev | Node.js, Express, MongoDB, Flutter |
-| 📍 **Kelilink** 🔒 | Backend berbasis lokasi (LBS) dan AI buat pedagang keliling & konsumen. Repo privat. | Backend Developer | TypeScript, Node.js, PostgreSQL |
+| 📍 **Kelilink** 🔒 | Backend berbasis lokasi (LBS) dan AI buat pedagang keliling & konsumen. | Backend Developer | TypeScript, Node.js, PostgreSQL |
 | 🔧 [Bengkel Service API](https://github.com/Sadamdi/DOT_Challenge) | REST API catatan servis kendaraan — technical challenge DOT Malang 2026. | Developer | NestJS, Prisma, PostgreSQL, JWT, Swagger |
 | 🍳 [Tastify](https://github.com/Sadamdi/APK-Resep-AI) | Aplikasi resep berbasis AI 🏆 *Best Project Informatika, GDSC 2024* | Developer | Flutter, Gemini AI |
-| 🧒 **Asisten Cilik** 🔒 | Mobile app edukasi anak berbasis AR dengan asisten virtual AI. Repo privat. | Mobile Developer | Flutter, Node.js, Gemini AI |
+| 🧒 **Asisten Cilik** 🔒 | Mobile app edukasi anak berbasis AR dengan asisten virtual AI. | Mobile Developer | Flutter, Node.js, Gemini AI |
 | 🖼️ [Smart Photo Organizer](https://github.com/Sadamdi/image-organize) | Desktop app pengorganisir foto otomatis pakai AI (CLIP + face recognition). | Owner & Lead Dev | Python, PyTorch, CustomTkinter |
-
-<sub>🔒 = repo privat/proprietary — deskripsi di atas cuma garis besar, tanpa detail arsitektur.</sub>
 
 ---
 
