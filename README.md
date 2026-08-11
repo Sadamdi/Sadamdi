@@ -86,7 +86,7 @@ Contact    : sultanadamr@gmail.com
 | Proyek | Deskripsi | Peran | Stack |
 |---|---|---|---|
 | 🏦 **KORA (Koperasi Digital)** 🔒 | Backend microservice buat platform koperasi digital: backoffice & manajemen anggota, e-commerce dengan pembayaran digital, sampai layanan agregator. | Backend Developer | Go, Fiber, PostgreSQL, Redis, Docker |
-| 🎓 [HMPS HIMATIF Encoder](https://github.com/Sadamdi/hmps) | Platform informasi resmi HIMATIF Encoder, UIN Malang, dari nol sampai production. | Owner, PM & Full-stack Dev | React, TypeScript, Express, MongoDB |
+| 🎓 [HMPS HIMATIF Encoder](https://github.com/Sadamdi/hmps) | Platform informasi resmi HIMATIF Encoder, UIN Malang, dari nol sampai deployment. | Owner, PM & Full-stack Dev | React, TypeScript, Express, MongoDB |
 | 🛒 [GDGOC E-Commerce](https://github.com/Sadamdi/GDGOC-Ecommerce) | E-commerce buat Study Jam 2026, GDGOC UIN Malang. | PM & Backend Dev | Go, React, MongoDB Atlas |
 | 🍲 [SIPGN-BGN](https://github.com/Sadamdi/BGN) | Sistem monitoring program Makan Bergizi Gratis skala nasional. | PM & Developer | React, AntD, Express, Prisma, PostgreSQL, Redis |
 | 🏪 [SekitarKampus](https://github.com/Sadamdi/SekitarKampus) | Direktori UMKM sekitar kampus 🏆 *1st Best Team, Maliki Tech Fest 2025* | Owner & Lead Dev | React, Leaflet, Fuse.js, Zustand |
